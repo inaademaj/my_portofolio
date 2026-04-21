@@ -1,3 +1,4 @@
+
 # My Portfolio
 
 Here are some of my featured projects:
@@ -7,7 +8,8 @@ This project is a fullstack Event Manager application built with React on the fr
 It demonstrates routing, authentication, and event management features.
 Users must log in to access and manage events. Authentication is handled using token-based authentication (JWT).
 
-<img width="1291" height="587" alt="Screenshot 2025-10-14 at 11 36 03" src="https://github.com/user-attachments/assets/81df54ec-069e-42ba-beba-004edf5e9f85" />
+<img width="1291" height="587" alt="Screenshot 2026-04-21 at 10 24 50" src="https://github.com/user-attachments/assets/08450ee0-006f-42ca-95fa-3462c850e9d4" />
+
 
 
 - [Project B](https://github.com/inaademaj/places-finder):
