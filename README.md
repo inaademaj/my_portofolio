@@ -1,4 +1,3 @@
-<img width="1438" height="692" alt="Screenshot 2026-03-25 at 11 36 19" src="https://github.com/user-attachments/assets/1ec88739-d618-4305-b2a6-e1cabfdfaefe" />
 # My Portfolio
 
 Here are some of my featured projects:
