@@ -15,5 +15,6 @@ Users must log in to access and manage events. Authentication is handled using t
 A React app that fetches and displays nearby places, sorted by the user’s current location.
 It includes error handling, modals, loading states, and confirmation dialogs.
 
-<img width="933" height="607" alt="Screenshot 2025-10-08 at 16 13 32" src="https://github.com/user-attachments/assets/3b0dea0b-7d64-43f6-b4a7-5b2f1d83665a" />
+<img width="933" height="607" alt="Screenshot 2026-03-25 at 11 36 19" src="https://github.com/user-attachments/assets/1ec88739-d618-4305-b2a6-e1cabfdfaefe" />
+
 
